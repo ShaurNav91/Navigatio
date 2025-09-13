@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273707531271",
+    "project_id": "shaurya-project-123",
+    "storage_bucket": "shaurya-project-123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273707531271:android:2e77d6d1236d1ad38bfea2",
+        "android_client_info": {
+          "package_name": "com.ex.navigatio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0hDWaRZAKs1yGuKZT85naXX9K6623-PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
